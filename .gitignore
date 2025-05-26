@@ -1,0 +1,5 @@
+pycache/
+*.py[cod]
+*$py.class
+.python-version
+.env
