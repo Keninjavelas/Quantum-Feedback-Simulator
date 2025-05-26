@@ -16,7 +16,8 @@ A Qiskit-based simulation of quantum systems with feedback loops.
 - Qiskit Output 1.png
 - Qiakit Output 2.png         
 - qiskit_kraus.py   
-- requirements.txt      
+- requirements.txt
+- random feedback & noise summary, in .csv and .json formats      
 
 ## Usage
 ```bash
