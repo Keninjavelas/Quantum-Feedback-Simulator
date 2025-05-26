@@ -13,9 +13,10 @@ A Qiskit-based simulation of quantum systems with feedback loops.
 - Provides detailed state analysis
 
 ## File Strucuture
-output 1.png          # Sample output image
-quantum_feedback.py   # Main code
-requirements.txt      # Dependencies
+- Qiskit Output 1.png
+- Qiakit Output 2.png         
+- qiskit_kraus.py   
+- requirements.txt      
 
 ## Usage
 ```bash
